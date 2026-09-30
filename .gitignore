@@ -1,0 +1,7 @@
+.DS_Store
+/Generated/
+/build/
+/*.xcodeproj/
+DerivedData/
+xcuserdata/
+*.xcuserstate
